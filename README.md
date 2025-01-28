@@ -10,7 +10,7 @@
 ## 📝 Introduction
 This repo serves to show that the team is capable of playing with Git and GitHub. Great News!!
 
-![Project Screenshot]()
+![Project Screenshot](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/svasude7/assets/Screenshot%202025-01-28%20at%204.39.04%E2%80%AFPM.png)
 
 ## We majorly used the following commands
 
