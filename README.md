@@ -1,9 +1,39 @@
-# git-homework2
+# Homework2
+
 <!-- Badges -->
 ![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)
 [![DOI](https://zenodo.org/badge/914548455.svg)](https://doi.org/10.5281/zenodo.14720533)
+
+
+## 📝 Introduction
+This repo serves to show that the team is capable of playing with Git and GitHub. Great News!!
+
+![Project Screenshot]()
+
+## We majorly used the following commands
+
+```sh
+### Stage all changes for commit
+git add .
+
+
+### Commit the staged changes with a message
+git commit -m "Add changes"
+
+
+### Push to the remote repository
+git push origin YOUR_BRANCH
+```
+
+## Our Final Task List
+
+- [x] Task 1: Complete Git Tutorial 
+- [x] Task 2: Add Screenshots to `README.md`  
+- [x] Task 3: Modify `.html` File  
+- [ ] Task 4: Merge latest changes  
+- [ ] Task 5: Review pull requests
 
 > [!Note]
 > Used [Watermarkly](https://watermarkly.com/#app) to add watermarks
