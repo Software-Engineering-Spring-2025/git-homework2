@@ -7,5 +7,5 @@
 
 
 ## Screenshots with Git tutorial Progress
-![Marley1](https://github.com/user-attachments/assets/6624ea0d-e3b2-4457-9ed4-35dfb36ac402)
-![Marley2](https://github.com/user-attachments/assets/d284db22-9b63-4678-85f9-fef674d22f2d)
+![git1 (1)](https://github.com/user-attachments/assets/d121ae77-e7c7-4081-99b8-0ace87980358)
+![git 2 (1)](https://github.com/user-attachments/assets/05a38fc8-3bd6-4aca-b86e-655955cd7497)
