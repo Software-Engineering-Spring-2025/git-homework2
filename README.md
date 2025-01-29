@@ -41,9 +41,9 @@ git push origin YOUR_BRANCH
 > [!Note]
 > Used [Watermarkly](https://watermarkly.com/#app) to add watermarks
 
-![image](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/svasude7/assets/Screenshot%202025-01-27%20at%2010.14.24%E2%80%AFPM.png)
+![image](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/main/assets/Screenshot%202025-01-27%20at%2010.14.24%E2%80%AFPM.png)
 
-![image](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/svasude7/assets/Screenshot%202025-01-27%20at%2010.14.31%E2%80%AFPM.png)
+![image](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/main/assets/Screenshot%202025-01-27%20at%2010.14.31%E2%80%AFPM.png)
 
 
 ## Screenshots with Git tutorial Progress
