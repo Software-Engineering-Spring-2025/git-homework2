@@ -8,10 +8,6 @@
 ![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)
 [![DOI](https://zenodo.org/badge/914548455.svg)](https://doi.org/10.5281/zenodo.14720533)
 
-# SCREENSHOT FOR GIT TUTORIAL
-![git1 (1)](https://github.com/user-attachments/assets/f351675e-86df-4239-9c36-0d02ef3ffb61)
-![git 2 (1)](https://github.com/user-attachments/assets/8350585d-31fc-43be-9022-b1e438301b9d)
-
 
 ## 📝 Introduction
 This repo serves to show that the team is capable of playing with Git and GitHub. Great News!!!
@@ -38,8 +34,9 @@ git push origin YOUR_BRANCH
 - [x] Task 1: Complete Git Tutorial 
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
-- [ ] Task 4: Merge latest changes  
+- [x] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests
+
 
 > [!Note]
 > Used [Watermarkly](https://watermarkly.com/#app) to add watermarks
@@ -49,6 +46,12 @@ git push origin YOUR_BRANCH
 ![image](https://raw.githubusercontent.com/Software-Engineering-Spring-2025/git-homework2/refs/heads/svasude7/assets/Screenshot%202025-01-27%20at%2010.14.31%E2%80%AFPM.png)
 
 
+## Screenshots with Git tutorial Progress
+![Marley1](https://github.com/user-attachments/assets/6624ea0d-e3b2-4457-9ed4-35dfb36ac402)
+![Marley2](https://github.com/user-attachments/assets/d284db22-9b63-4678-85f9-fef674d22f2d)
 
 
+# SCREENSHOT FOR GIT TUTORIAL
+![git1 (1)](https://github.com/user-attachments/assets/f351675e-86df-4239-9c36-0d02ef3ffb61)
+![git 2 (1)](https://github.com/user-attachments/assets/8350585d-31fc-43be-9022-b1e438301b9d)
 
